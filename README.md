@@ -26,7 +26,7 @@ ___
    Yes, Thats why im posting it here. Some credit would be appreciated though.
 ___   
 
-[Imgur](http://i.imgur.com/crwVmq9.gifv)
+[Demo Gif](http://i.imgur.com/crwVmq9.gifv)
 
 
 
