@@ -1,12 +1,12 @@
-# Subspace Corridor
+[center][b][size=24pt]Subspace Corridor[/size][/b][/center]
 
-![alt text](http://imgur.com/QjimETA.png)
-___
+[center][img]http://imgur.com/QjimETA.png[/img][/center]
+[hr]
 This is a modders recources, designed to mimick /teleport, due to server commands not being available through the api.
 
 
-## FAQ
-___
+[b]FAQ[/b]
+[hr]
 #### What does this mod do?
    This mod is a modders recource giving modders access to a teleport command. which they can call inside thier scripts.
 
@@ -24,14 +24,12 @@ ___
 
 #### Can I use this in my mods?
    Yes, Thats why im posting it here. Some credit would be appreciated though.
-___   
+[hr]
 
-[Demo Gif](http://i.imgur.com/crwVmq9.gifv)
-
-
-
-## INSTALL
-___
+[center]Click to see gif of script in use.[/center]
+[center][url=http://i.imgur.com/crwVmq9][img]http://i.imgur.com/crwVmq9l.jpg[/img][/url][/center]
+[b]INSTALL[/b]
+[hr]
 Place the SubspaceCorridor.lua inside data/scripts/player/
 Access the script like so:
 
@@ -43,23 +41,23 @@ The script will then teleport the player to that destination.
 The script has built in safegaurds preventing a teleportation inside of a rift.
 In later versions i'll be making the script easier to use with 'require()' this will allow me to return an error if the x,y provided are not reachable. Or if their is an error in teleporting.
 
-## UNINSTALL
-___
+[b]UNINSTALL[/b]
+[hr]
 Just delete the files, and remove refrences to them out of your own scripts.
 
-## TODO
-___
+[b]TODO[/b]
+[hr]
 -Move main functions outside of initialize() so that we can 'require()' and get returns from the script.
 -detect when destination sector has been loaded.
 -remove dependence on to wormhole descriptors.
 -verify player has been teleported.
 
 
-## GITHUB
-___
-https://github.com/dirtyredz/Subspace-Corridor
+[b]GITHUB[/b]
+[hr]
+[url=https://github.com/dirtyredz/Subspace-Corridor]https://github.com/dirtyredz/Subspace-Corridor[/url]
 
 
-## DOWNLOAD
-___
-https://www.dropbox.com/s/9p1qbkz98nwo6pj/Subspace-Corridor-V1.0.0.zip?dl=0
+[b]DOWNLOAD[/b]
+[hr]
+[url=https://www.dropbox.com/s/9p1qbkz98nwo6pj/Subspace-Corridor-V1.0.0.zip?dl=0]Subspace-Corridor-V1.0.0[/url]
