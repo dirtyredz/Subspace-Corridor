@@ -26,7 +26,7 @@ ___
    Yes, Thats why im posting it here. Some credit would be appreciated though.
 ___   
 
-![alt text](http://imgur.com/crwVmq9)
+[Imgur](http://i.imgur.com/crwVmq9.gifv)
 
 
 
