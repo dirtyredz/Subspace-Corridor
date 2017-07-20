@@ -45,19 +45,23 @@ In later versions i'll be making the script easier to use with 'require()' this 
 [hr]
 Just delete the files, and remove refrences to them out of your own scripts.
 
-[b]TODO[/b]
+[center][b]Downloads[/b][/center]
 [hr]
--Move main functions outside of initialize() so that we can 'require()' and get returns from the script.
--detect when destination sector has been loaded.
--remove dependence on to wormhole descriptors.
--verify player has been teleported.
+Version 1.1.0
+[url=https://github.com/dirtyredz/Subspace-Corridor/releases/download/1.1.0/Subspace-Corridor-v1.1.0.zip]Subspace-Corridor v1.1.0[/url]
 
+Version 1.0.0
+[url=https://www.dropbox.com/s/9p1qbkz98nwo6pj/Subspace-Corridor-V1.0.0.zip?dl=0]Subspace-Corridor-V1.0.0[/url]
+
+[center][b]Changelog[/b][/center]
+[hr]
+[b]Changelog[/b]
+Version 1.1.0
+-Added more print outs
+-Added check to identify if to close to other entities
+-Added configs page, (no required)
+-Cleaned up code for performance
 
 [b]GITHUB[/b]
 [hr]
 [url=https://github.com/dirtyredz/Subspace-Corridor]https://github.com/dirtyredz/Subspace-Corridor[/url]
-
-
-[b]DOWNLOAD[/b]
-[hr]
-[url=https://www.dropbox.com/s/9p1qbkz98nwo6pj/Subspace-Corridor-V1.0.0.zip?dl=0]Subspace-Corridor-V1.0.0[/url]
